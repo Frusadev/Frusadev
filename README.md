@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 -->
 # 💫 About Me:
-- 🔭 I’m currently working on a blog application
-- 🌱 I’m currently using Typescript and FastAPI
+- 🔭 I’m currently working on a blog article writing application.
+- 🌱 I’m currently using Typescript.
 - 👯 I’m looking to collaborate all sorts of projects.
 - 📫 How to reach me: frusadev@gmail.com
 
