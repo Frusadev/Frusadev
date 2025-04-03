@@ -7,8 +7,6 @@ I love coding and building cool projects. Currently working with Python, TypeScr
 
 - 🌍 I'm based in Togo (Lomé)
 - ✉️ You can contact me at [frusadev@gmail.com](mailto:frusadev@gmail.com)
-- 🚀 I'm currently working on [noteshare](http://noteshare-flame.vercel.app)
-- 🧠 I'm learning Go
 - 🤝 I'm open to collaborating on anything tech-related
 - ⚡ I love writing
 
