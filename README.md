@@ -6,7 +6,7 @@
 I love coding and building cool projects. Currently working with Python, TypeScript, and exploring web development with Next.js and FastAPI.
 
 - 🌍 I'm based in Togo (Lomé)
-- ✉️ You can contact me at [frusadev@gmail.com](mailto:frusadev@gmail.com)
+- ✉️ You can contact me at [daniel@ametsowou.me](mailto:daniel@ametsowou.me)
 - 🤝 I'm open to collaborating on anything tech-related
 - ⚡ I love writing
 
