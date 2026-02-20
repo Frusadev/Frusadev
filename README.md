@@ -24,7 +24,7 @@ Mostly, I like building things.
 ### Links
 
 - GitHub: Check your address bar 
-- LinkedIn: https://www.linkedin.com/in/frusadev  
+- LinkedIn: aHR0cHM6Ly9saW5rZWRpbi5jb20vaW4vZnJ1c2FkZXY= 
 - Instagram: who_knows_question_mark  
 - Email: daniel@ametsowou.me
 
