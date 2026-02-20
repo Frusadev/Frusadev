@@ -7,7 +7,7 @@ Builder who never vibe-coded (he promised)
 ---
 
 ### About
-I usually prefer staying mysterious, but I'll make an exception, for you 😏
+I usually prefer staying mysterious, but I'll make an exception
 
 I'm Daniel, based in Lomé (Togo).  
 I like code, money, philosophy, unconventional music, and freedom.
