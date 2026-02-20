@@ -23,10 +23,9 @@ Mostly, I like building things.
 
 ### Links
 
-- GitHub: https://github.com/Frusadev  
+- GitHub: Check your address bar 
 - LinkedIn: https://www.linkedin.com/in/frusadev  
-- Instagram: https://www.instagram.com/thedanielametsowou  
-- YouTube: https://www.youtube.com/@thedanielametsowou  
+- Instagram: who_knows_question_mark  
 - Email: daniel@ametsowou.me
 
 ---
