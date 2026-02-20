@@ -25,9 +25,9 @@ Mostly, I like building things.
 
 - GitHub: Check your address bar 
 - LinkedIn: aHR0cHM6Ly9saW5rZWRpbi5jb20vaW4vZnJ1c2FkZXY= 
-- Instagram: who_knows_question_mark  
+- Instagram: you’ll find it  
 - Email: daniel@ametsowou.me
 
 ---
 
-Note: I never vibe-code, in fact, i didn't use ChatGPT in the process of writing this README (i promise)
+Note: I never vibe-code, in fact, i did not use ChatGPT in the process of writing this README (i promise)
