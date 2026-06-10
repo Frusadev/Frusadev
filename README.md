@@ -1,7 +1,7 @@
 <h1 align="center">Daniel · Frusadev</h1>
 
 <p align="center">
-Builder who never vibe-coded and future Quant
+Future Quant
 </p>
 
 ---
